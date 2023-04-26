@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "anmolbhardwaj.github.io",
   "version": "1.0.0",
   "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
   "scripts": {
@@ -12,12 +12,12 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "gatsby": "^5.0.1",
+    "gatsby": "^5.9.0",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Anmol Bhardwaj <mail@anmolbhardwaj94@gmail.com>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
   "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
